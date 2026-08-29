@@ -255,8 +255,8 @@ export const siteConfig = {
   legalBusinessName: "Compact Car Hire Lancaster",
   locationName: "Lancaster",
   siteUrl: "https://compactcarhirelancaster.co.uk",
-  phone: "+442039099745",
-  displayPhone: "0203 909 9745",
+  phone: "+442046348248",
+  displayPhone: "020 4634 8248",
   ui: {
     navLocationsLabel: "Locations",
     navServicesLabel: "Services",
